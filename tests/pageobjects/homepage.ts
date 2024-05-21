@@ -34,5 +34,4 @@ export class LoginPage{
         await this.fillPassword(password)
         await this.clickOnLogin()
     }
- 
 }
