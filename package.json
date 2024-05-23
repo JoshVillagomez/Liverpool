@@ -13,5 +13,8 @@
     "@types/node": "^20.12.12",
     "mailslurp-client": "^15.20.2",
     "playwright": "^1.44.0"
+  },
+  "dependencies": {
+    "twilio": "^5.0.4"
   }
 }
